@@ -1,5 +1,3 @@
-Automated Social Media Post Scheduling and Promotion using AI
-================================================================================================================================
 
 Social media is an essential tool for bloggers to promote their content and reach a wider audience. However, managing multiple social media accounts and scheduling posts can be time-consuming and difficult to keep track of. By incorporating AI-enabled tools into their social media strategy, bloggers can streamline their content curation and distribution process and improve the efficiency of their social media promotion.
 

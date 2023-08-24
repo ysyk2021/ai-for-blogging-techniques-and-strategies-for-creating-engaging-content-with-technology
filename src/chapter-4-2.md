@@ -1,5 +1,3 @@
-Automated Grammar and Spelling Correction using AI
-=========================================================================================================
 
 In this chapter, we will explore how AI can be used to enhance writing clarity and tone for bloggers. We will discuss how automated grammar and spelling correction using AI can improve the quality of blog content.
 
