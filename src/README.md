@@ -8,3 +8,7 @@ In this book, we will provide insights into how AI can help bloggers streamline 
 Whether you are an experienced blogger or just starting out, this book will provide you with valuable information and strategies for leveraging AI to create compelling blog content. So, let's dive in and explore the exciting world of AI-powered blogging!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
