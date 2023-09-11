@@ -1,5 +1,4 @@
-Chapter 4: Automated Grammar and Spelling Correction Using AI
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies of using AI to automate grammar and spelling correction within the context of AI for blogging. Writing high-quality content that is free of grammatical errors and spelling mistakes is essential for bloggers to establish credibility and engage their audience. This chapter discusses the importance of leveraging AI in the editing process and provides insights into how bloggers can effectively utilize AI-powered tools to automate grammar and spelling correction.
 

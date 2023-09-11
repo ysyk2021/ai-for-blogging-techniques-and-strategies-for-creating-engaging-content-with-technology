@@ -1,5 +1,4 @@
-Chapter 6: Selecting the Right Tools for Your Blogging Needs
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right tools for your blogging needs within the context of AI for blogging. With a wide range of AI-powered tools and technologies available, it is crucial for bloggers to make informed decisions when choosing the tools that align with their objectives, content strategy, and workflow. This chapter aims to guide bloggers through the selection process and provide insights into factors to consider when choosing the right tools for their blogging needs.
 

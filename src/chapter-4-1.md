@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Writing Assistance for Blogging
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies of using AI-powered writing assistance for blogging within the context of AI for blogging. Writing compelling and engaging content is crucial for bloggers to attract and retain an audience. This chapter discusses the importance of leveraging AI in the writing process and provides insights into how bloggers can effectively utilize AI-powered writing assistance tools to enhance their blog posts.
 

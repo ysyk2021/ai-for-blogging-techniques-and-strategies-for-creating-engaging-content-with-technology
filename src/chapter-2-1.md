@@ -1,5 +1,4 @@
-Chapter 2: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the available tools and technologies within the context of AI for blogging. As AI continues to advance, numerous tools and technologies have emerged to assist bloggers in creating engaging content. This chapter aims to familiarize bloggers with the range of tools and technologies available to enhance their blogging techniques and strategies.
 

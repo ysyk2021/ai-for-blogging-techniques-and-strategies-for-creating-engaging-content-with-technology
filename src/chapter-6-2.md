@@ -1,5 +1,4 @@
-Chapter 7: Automated Social Media Post Scheduling and Promotion Using AI
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the techniques and strategies for automated social media post scheduling and promotion using AI within the context of AI for blogging. Social media platforms are powerful tools for promoting blog content and engaging with audiences. This chapter discusses the importance of leveraging AI to automate the scheduling and promotion of social media posts, and provides insights into how bloggers can effectively utilize AI in their social media strategies.
 

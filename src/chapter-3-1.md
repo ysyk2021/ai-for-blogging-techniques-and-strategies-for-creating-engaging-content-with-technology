@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Idea Generation and Brainstorming
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how bloggers can utilize AI for idea generation and brainstorming. Artificial intelligence (AI) technologies have the potential to assist bloggers in generating creative and engaging ideas, saving time, and enhancing their content creation process. This chapter aims to showcase the various ways AI can be leveraged to inspire bloggers in generating innovative ideas for their blog posts.
 
